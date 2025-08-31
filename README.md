@@ -155,8 +155,8 @@
 
 **Yanecy_Lu**
 
-- GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Email: your.email@example.com
+- GitHub: [@Yancey597](https://github.com/yancey597)
+- Email: god@yancey.vip
 
 ## 🙏 致谢
 
