@@ -28,11 +28,11 @@
         enableDateSpam: true    // 是否启用持续点击日期
     };
     
-    // 获取默认日期（当前日期+15天）
+    // 获取默认日期（当前日期+14天）
     function getDefaultDate() {
         const today = new Date();
         const targetDate = new Date(today);
-        targetDate.setDate(today.getDate() + 15);
+        targetDate.setDate(today.getDate() + 14);
         
         const month = String(targetDate.getMonth() + 1).padStart(2, '0');
         const day = String(targetDate.getDate()).padStart(2, '0');
